@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=609f31ad_002D2dee_002D4161_002D9c9a_002D2a4ce7adb375/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Authorization" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.Authorization&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94c26a77_002D33da_002D429b_002Da4c3_002Df845092cd62f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Authorization #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.Authorization&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.NavigationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.GoToTheEditProfilePage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.CancelProfileEditing&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.FilterCounter&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.FiltersInEvents&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.CommunitySearch&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.Search&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=chromedriver_002Eexe/@EntryIndexedValue">KillOrphaned</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=conhost_002Eexe/@EntryIndexedValue">KillOrphaned</s:String></wpf:ResourceDictionary>
