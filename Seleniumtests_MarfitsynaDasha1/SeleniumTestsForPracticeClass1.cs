@@ -94,6 +94,9 @@ public class SeleniumTestsForPracticeClass1
         logout.Click();
         var portal = driver.FindElement(By.CssSelector("[class='PostLogoutRedirectUri']"));
         portal.Click();
+        var login = driver.FindElement(By.Id("Username"));
+        //это такой ассерт - проверка наличия элемента на странице. если он есть, значит мы попали куда нужно
+        //к урлу не привязалась, т.к. он динамический
     }
 
     [TearDown]

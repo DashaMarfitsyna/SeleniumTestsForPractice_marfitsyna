@@ -14,6 +14,7 @@
     &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.FiltersInEvents&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.CommunitySearch&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.Search&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F6034AB5-C948-4786-AA34-CC83A4B23567::net8.0::Seleniumtests_MarfitsynaDasha1.SeleniumTestsForPracticeClass1.LogoutFromAccount&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=chromedriver_002Eexe/@EntryIndexedValue">KillOrphaned</s:String>
